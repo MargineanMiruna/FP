@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sem8/Aufg2/.idea/Aufg2.iml" filepath="$PROJECT_DIR$/Sem8/Aufg2/.idea/Aufg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cursuri/.idea/Cursuri.iml" filepath="$PROJECT_DIR$/Cursuri/.idea/Cursuri.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GP.iml" filepath="$PROJECT_DIR$/.idea/GP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sem7/.idea/Sem7.iml" filepath="$PROJECT_DIR$/Sem7/.idea/Sem7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sem8/.idea/Sem8.iml" filepath="$PROJECT_DIR$/Sem8/.idea/Sem8.iml" />
     </modules>
   </component>
 </project>

@@ -1,54 +1,28 @@
-import random
+from choices.user import user_input
+from choices.computer import computer_choice
+from result.winner import win
+from tests.test import test_win
 
-def Rock():
+
+def menu():
     print("""
-        _______
-    ---'   ____)
-          (_____)
-          (_____)
-          (____)
-    ---.__(___)
+    Rock - r
+    Paper - p
+    Scissors - s
     """)
-
-
-def Paper():
-    print("""
-         _______
-    ---'    ____)____
-               ______)
-              _______)
-             _______)
-    ---.__________)
-    """)
-
-
-def Scissors():
-    print("""
-        _______
-    ---'   ____)____
-              ______)
-           __________)
-          (____)
-    ---.__(___)
-    """)
-
-
-def random_choice():
-    l = [Rock(), Paper(), Scissors()]
-    return random_choice(l)
 
 
 def main():
-    wahl = input('Schere, Stein oder Papier? ')
-    if wahl == 'Schere':
-        Scissors()
-    elif wahl == 'Stein':
-        Rock()
+    menu()
+    user = input('Rock, Paper, Scissors? ')
+    user_input(user)
+    print('I chose this: ')
+    comp = computer_choice()
+    if win(user, comp) is None:
+        main()
     else:
-        Paper()
-
-    print('Ich habe das gewahlt: ')
-    random_choice()
+        print(win(user, comp))
 
 
+test_win()
 main()
