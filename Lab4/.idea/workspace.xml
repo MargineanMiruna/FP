@@ -5,53 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6642e9b-f7e6-47d2-a66a-8d958ace7ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Cursuri/.idea/Cursuri.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub1/characters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub1/keyboard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub1/keyboard/alphabet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub1/keyboard/commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub1/solution/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub1/solution/text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/interactions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/interactions/with_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/interactions/with_keyboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/logic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/logic/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub2/tests/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/choices/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/choices/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/choices/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/interactions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/interactions/choices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/result/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/result/winner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ub3/tests/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/.idea/Sem7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/auto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/die.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/frac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/konto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/kreis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem7/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem8/.idea/Sem8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem8/Aufg2/.idea/Aufg2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sem8/Aufg2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/GP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/GP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ub1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ub1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ub2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ub2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ub1/characters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ub1/characters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ub1/solution/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ub1/solution/text.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ub2/meine_datei.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ub2/meine_datei.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ub3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ub3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ub3/result/winner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ub3/result/winner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ub3/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ub3/tests/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4" />
@@ -157,6 +117,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699564385438</updated>
     </task>
+    <task id="LOCAL-00001" summary="new lab">
+      <option name="closed" value="true" />
+      <created>1700737418632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700737418632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="new lab" />
   </component>
 </project>

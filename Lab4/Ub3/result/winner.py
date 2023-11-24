@@ -1,20 +1,18 @@
-def win(user, comp, debug=False):
+def win(user, comp):
     if user == comp:
-        if debug is False:
-            print('Tie! Choose again: ')
-        return None
+        return 'n'
     elif user == 'r':
         if comp == 'p':
-            return 'You lost!'
+            return 'c'
         else:
-            return 'You won!!!'
+            return 'u'
     elif user == 'p':
         if comp == 's':
-            return 'You lost!'
+            return 'c'
         else:
-            return 'You won!!!'
+            return 'u'
     else:
         if comp == 'r':
-            return 'You lost!'
+            return 'c'
         else:
-            return 'You won!!!'
+            return 'u'

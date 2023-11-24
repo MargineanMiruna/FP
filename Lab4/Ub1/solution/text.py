@@ -14,7 +14,7 @@ def add_to_switcher(text, switcher1, switcher2):
 
 def text_to_screen(t, switcher1, word):
     for ch in word:
-        if ch.islower() is False:
+        if ch.isdigit() is True:
             comm = switcher1[ch]
             for c in comm:
                 c(t)

@@ -1,6 +1,7 @@
-Meine Katze liebt Fisch              
-Diese Katze verhaltet sich wie eine Katze  
-Ich mochte eine Katze haben               
+Meine Hund liebt Fisch               
+Diese Hund verhaltet sich wie eine Hund   
+Ich mochte eine Hund haben                
+       
       
      
     
