@@ -1,0 +1,22 @@
+Dishes:
+1, French Fries, 200 g, 12.5 lei, 5 min
+2, Schnitzel, 350 g, 30.8 lei, 12 min
+3, Crispy Strips, 350 g, 32.2 lei, 8 min
+4, Pizza, 450 g, 40.0 lei, 30 min
+5, Hamburger, 380 g, 37.9 lei, 25 min
+6, Cheeseburger, 400 g, 40.3 lei, 35 min
+7, Chicken Soup, 270 g, 13.7 lei, 15 min
+8, Spaghetti Carbonara, 320 g, 34.6 lei, 17 min
+9, Sushi, 260 g, 36.8 lei, 32 min
+10, Crepes, 220 g, 20.5 lei, 20 min
+
+Drinks:
+1, Water, 500 ml, 6.0 lei, 0% alc
+2, Sparkling Water, 500 ml, 7.0 lei, 0% alc
+3, Orange Juice, 400 ml, 7.5 lei, 0% alc
+4, Coca Cola, 330 ml, 8.5 lei, 0% alc
+5, Coffee, 250 ml, 13.0 lei, 0% alc
+6, Beer, 500 ml, 11.5 lei, 5% alc
+7, Wine, 300 ml, 19.5 lei, 12% alc
+8, Cocktail, 250 ml, 25.0 lei, 14% alc
+9, Whiskey, 75 ml, 17.5 lei, 40% alc

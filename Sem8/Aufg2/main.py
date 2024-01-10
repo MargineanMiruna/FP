@@ -15,7 +15,7 @@ def gem_elem(liste):
                 dict_cnt[el] = 1
 
     k = []
-    for key, value in dict_cnt2.items():
+    for key, value in dict_cnt.items():
         if value == len(liste):
             k.append(key)
 
