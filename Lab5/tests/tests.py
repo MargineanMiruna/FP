@@ -1,5 +1,5 @@
 from modelle.modelle import GekochterGericht, Kunde, Bestellung
-from repository.repo import CookedDishRepo, DrinkRepo, CustomerRepo
+from repository.repo import CookedDishRepo, DrinkRepo, CustomerRepo, OrderRepo
 from controller.controller import Controller
 
 
@@ -52,8 +52,23 @@ Sushi - 36.8
 Water - 6.0
 Coffee - 13.0
 Total: 108.3"""
-    print(rech)
     assert bill.anz_rechnung() == rech
+
+
+def test_save_convert():
+    repo = OrderRepo('test_orders.data')
+    bill = Bestellung(2, 7, [9, 4, 5], [6])
+    bill.get_ger(CookedDishRepo('dishes.data').dishes)
+    bill.get_get(DrinkRepo('drinks.data').drinks)
+    bill.add_kosten()
+    repo.add(bill)
+    repo.load()
+    assert repo.orders[-1] == bill
+
+
+def test_load_convert():
+    repo = OrderRepo('test_orders.data')
+    assert type(repo.orders[-1]) == Bestellung
 
 
 

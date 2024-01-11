@@ -59,6 +59,9 @@ class Bestellung(Identifizierbar):
     def __str__(self):
         return f'Id: {self.id}, Customer-ID: {self.kid}, Dishes: {[ger.ger for ger in self.gerichte]}, Drinks: {[get.ger for get in self.getranke]}, Total: {self.kosten}'
 
+    def __eq__(self, other):
+        return self.id == other.id and self.kid == other.kid and self.gerichte == other.gerichte and self.getranke == other.getranke and self.kosten == other.kosten
+
     def get_ger(self, l):
         for obj in l:
             for i in range(len(self.gerichte)):
